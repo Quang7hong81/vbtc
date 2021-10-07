@@ -1,0 +1,51 @@
+# VBTC
+Website Status: VBTC exchange
+title: VBTC - Buy and sell Bitcoin in Vietnam
+description: VBTC - Buy or sell bitcoins in Vietnam Buy and sell bitcoin in Vietnam
+
+author: Thong Ngo
+email: quangthong1011@gmail.com
+phone number: 0915101105
+
+
+Bitcoin, Password, User (computing), Server (computing), Deposit account, Multisignature, Open-source software, Transparency (behavior), Solvency, Security hacker, Blockchain, Cryptocurrency wallet, Algorithmic trading, Source code, Trade, Wallet, Market maker, Broker, Payment processor, .NET Framework
+
+baseurl: "https://vbtc.exchange"
+
+url: "https://vbtc.github.io"
+
+show_excerpts: true
+
+twitter_username: vbtc_vietnam
+
+facebook_username: VBTC.vn
+
+github_username: vbtc
+
+rss: feed.xml
+
+markdown: kramdown
+
+theme: minima
+
+plugins:
+
+  - jekyll-feed
+
+exclude:
+
+  - .idea/3
+
+  - Gemfile
+
+  - Gemfile.lock
+
+  - node_modules
+
+  - vendor/bundle/
+
+  - vendor/cache/
+
+  - vendor/gems/
+
+  - vendor/ruby/
